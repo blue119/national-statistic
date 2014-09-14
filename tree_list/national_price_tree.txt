@@ -1,0 +1,77 @@
+rootFront: 臺灣地區物價統計
+folder: 消費者物價指數
+folder: 消費者物價基本分類暨項目群指數
+PR0101A2A	消費者物價基本分類暨項目群指數-年	../PXfile/PriceStatistics/
+PR0101A2M	消費者物價基本分類暨項目群指數-月	../PXfile/PriceStatistics/
+folder: 消費者物價商品性質分類指數
+PR0102A1A	消費者物價商品性質分類指數-年	../PXfile/PriceStatistics/
+PR0102A1M	消費者物價商品性質分類指數-月	../PXfile/PriceStatistics/
+folder: 消費者物價購買頻度別指數
+PR0105A1A	消費者物價購買頻度別指數-年	../PXfile/PriceStatistics/
+PR0105A1M	消費者物價購買頻度別指數-月	../PXfile/PriceStatistics/
+folder: 消費者物價特殊分類指數
+PR0103A1A	消費者物價特殊分類指數-年	../PXfile/PriceStatistics/
+PR0103A1M	消費者物價特殊分類指數-月	../PXfile/PriceStatistics/
+folder: 所得層級別消費者物價指數
+PR0104A1A	所得層級別消費者物價指數-年	../PXfile/PriceStatistics/
+PR0104A1M	所得層級別消費者物價指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價指數
+folder: 躉售物價內外銷及產地來源分類指數
+PR0201A1A	躉售物價內外銷及產地來源分類指數-年	../PXfile/PriceStatistics/
+PR0201A1M	躉售物價內外銷及產地來源分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價基本分類指數
+PR0202A1A	躉售物價基本分類指數-年	../PXfile/PriceStatistics/
+PR0202A1M	躉售物價基本分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價內銷品基本分類指數
+PR0203A1A	躉售物價內銷品基本分類指數-年	../PXfile/PriceStatistics/
+PR0203A1M	躉售物價內銷品基本分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價國產品基本分類指數
+PR0204A1A	躉售物價國產品基本分類指數-年	../PXfile/PriceStatistics/
+PR0204A1M	躉售物價國產品基本分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價國產內銷品基本分類指數
+PR0207A1A	躉售物價國產內銷品基本分類指數-年	../PXfile/PriceStatistics/
+PR0207A1M	躉售物價國產內銷品基本分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價內銷品加工階段分類指數
+PR0205A1A	躉售物價內銷品加工階段分類指數-年	../PXfile/PriceStatistics/
+PR0205A1M	躉售物價內銷品加工階段分類指數-月	../PXfile/PriceStatistics/
+folder: 進口物價指數
+folder: 進口物價基本分類指數(按HS分)(美元計價)
+PR0301A1A	進口物價基本分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0301A1M	進口物價基本分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價基本分類指數(按HS分)(新台幣計價)
+PR0302A1A	進口物價基本分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0302A1M	進口物價基本分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價用途別分類指數(美元計價)
+PR0306A1A	進口物價用途別分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0306A1M	進口物價用途別分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價用途別分類指數(新台幣計價)
+PR0303A1A	進口物價用途別分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0303A1M	進口物價用途別分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價部門分類指數(美元計價)
+PR0308A1A	進口物價部門別分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0308A1M	進口物價部門別分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價部門分類指數(新台幣計價)
+PR0305A1A	進口物價部門別分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0305A1M	進口物價部門別分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價指數
+folder: 出口物價基本分類指數(按HS分)(美元計價)
+PR0401A1A	出口物價基本分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0401A1M	出口物價基本分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價基本分類指數(按HS分)(新台幣計價)
+PR0402A1A	出口物價基本分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0402A1M	出口物價基本分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價部門分類指數(美元計價)
+PR0406A1A	出口物價部門別分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0406A1M	出口物價部門別分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價部門分類指數(新台幣計價)
+PR0403A1A	出口物價部門別分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0403A1M	出口物價部門別分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價用途別分類指數(美元計價)
+PR0408A1A	出口物價用途別分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0408A1M	出口物價用途別分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價用途別分類指數(新台幣計價)
+PR0405A1A	出口物價用途別分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0405A1M	出口物價用途別分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 營造工程物價指數
+<li><span class="file"><a href="javascript:var popup=window.open('../Dialog/cci_y.htm', '說明', 'width=600, height=260, location=no, menubar=no, status=no, toolbar=no, scrollbars=no, resizable=yes, top=150, left=250');">年</a><span style="color: #808080; font-style: italic; font-size: 10px;"> 更新：2014-04-07</span></span></li>
+<li><span class="file"><a href="javascript:var popup=window.open('../Dialog/cci_m.htm', '說明', 'width=600, height=260, location=no, menubar=no, status=no, toolbar=no, scrollbars=no, resizable=yes, top=150, left=250');">月</a><span style="color: #808080; font-style: italic; font-size: 10px;"> 更新：2014-09-05</span></span></li>

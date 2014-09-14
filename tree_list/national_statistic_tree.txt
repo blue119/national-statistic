@@ -1,0 +1,816 @@
+rootFront: PC-AXIS總體統計資料庫
+folder: 國民所得統計
+folder: 國民所得統計常用資料
+NA0101A1A	國民所得統計常用資料-年	../PXfile/NationalIncome/
+NA0101A1Q	國民所得統計常用資料-季	../PXfile/NationalIncome/
+folder: 國民生產毛額之處分
+NA0102A5A	國民生產毛額之處分-年(1981以後)	../PXfile/NationalIncome/
+NA0102A6Q	國民生產毛額之處分-季(1981以後)	../PXfile/NationalIncome/
+folder: 國內生產及要素所得
+NA0102A2A	國內生產及要素所得-年	../PXfile/NationalIncome/
+folder: 國內各業生產及平減指數
+NA0103A1A	國內各業生產及平減指數-年	../PXfile/NationalIncome/
+folder: 資本形成毛額
+folder: 固定資本形成毛額
+NA0401A1A	固定資本形成毛額-年	../PXfile/NationalIncome/
+NA0401A2Q	固定資本形成毛額-季	../PXfile/NationalIncome/
+folder: 各業固定資本形成毛額
+NA0402A1A	各業固定資本形成毛額-年	../PXfile/NationalIncome/
+folder: 國民所得與儲蓄
+NA0201A1A	國民所得與儲蓄-年	../PXfile/NationalIncome/
+NA0201A1Q	國民所得與儲蓄-季	../PXfile/NationalIncome/
+folder: 平均每人項統計結果
+NA0202A1A	平均每人項統計結果-年	../PXfile/NationalIncome/
+NA0202A1Q	平均每人項統計結果-季	../PXfile/NationalIncome/
+folder: 經季節調整之國內生產毛額-依支出分
+NA0102A3Q	經季節調整之國內生產毛額依支出分-季	../PXfile/NationalIncome/
+folder: 家庭收支統計
+FF0001A1A	家庭收支重要指標-年	../PXfile/HouseholdFinances/
+FF0002A1A	所得總額按來源別分  -年	../PXfile/HouseholdFinances/
+FF0003A1A	戶數五等分位組之平均每戶可支配所得  -年	../PXfile/HouseholdFinances/
+FF0004A1A	戶數五等分位組之所得分配比與所得差距  -年	../PXfile/HouseholdFinances/
+FF0005A1A	政府對家庭移轉收支對所得分配之影響  -年	../PXfile/HouseholdFinances/
+FF0006A1A	戶數十等分位組分界點之可支配所得  -年	../PXfile/HouseholdFinances/
+FF0007A1A	家庭消費支出按消費型態分  -年	../PXfile/HouseholdFinances/
+FF0008A1A	家庭住宅狀況  -年	../PXfile/HouseholdFinances/
+FF0009A1A	家庭主要設備普及率  -年	../PXfile/HouseholdFinances/
+FF0010A1A	戶數五等分位組之平均每戶人數與就業人數-年	../PXfile/HouseholdFinances/
+FF0011A1A	家庭戶數按戶內人口規模別之分配  -年	../PXfile/HouseholdFinances/
+folder: 物價統計
+folder: 消費者物價指數
+folder: 消費者物價基本分類指數
+PR0101A1A	消費者物價基本分類指數-年	../PXfile/PriceStatistics/
+PR0101A1M	消費者物價基本分類指數-月	../PXfile/PriceStatistics/
+folder: 消費者物價商品性質分類指數
+PR0102A1A	消費者物價商品性質分類指數-年	../PXfile/PriceStatistics/
+PR0102A1M	消費者物價商品性質分類指數-月	../PXfile/PriceStatistics/
+folder: 消費者物價特殊分類指數
+PR0103A1A	消費者物價特殊分類指數-年	../PXfile/PriceStatistics/
+PR0103A1M	消費者物價特殊分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價指數
+folder: 躉售物價內外銷及產地來源分類指數
+PR0201A1A	躉售物價內外銷及產地來源分類指數-年	../PXfile/PriceStatistics/
+PR0201A1M	躉售物價內外銷及產地來源分類指數-月	../PXfile/PriceStatistics/
+folder: 躉售物價基本分類指數
+PR0202A1A	躉售物價基本分類指數-年	../PXfile/PriceStatistics/
+PR0202A1M	躉售物價基本分類指數-月	../PXfile/PriceStatistics/
+folder: 進口物價指數
+folder: 進口物價基本分類指數(按HS分)(美元計價)
+PR0301A1A	進口物價基本分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0301A1M	進口物價基本分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 進口物價基本分類指數(按HS分)(新台幣計價)
+PR0302A1A	進口物價基本分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0302A1M	進口物價基本分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價指數
+folder: 出口物價基本分類指數(按HS分)(美元計價)
+PR0401A1A	出口物價基本分類指數(美元計價)-年	../PXfile/PriceStatistics/
+PR0401A1M	出口物價基本分類指數(美元計價)-月	../PXfile/PriceStatistics/
+folder: 出口物價基本分類指數(按HS分)(新台幣計價)
+PR0402A1A	出口物價基本分類指數(新台幣計價)-年	../PXfile/PriceStatistics/
+PR0402A1M	出口物價基本分類指數(新台幣計價)-月	../PXfile/PriceStatistics/
+folder: 營造工程物價指數
+PR0501A1A	營造工程物價指數-類指數-年	../PXfile/PriceStatistics/
+PR0501A1M	營造工程物價指數-類指數-月	../PXfile/PriceStatistics/
+folder: 勞工統計
+folder: 勞動力人口統計
+folder: 人力資源主要指標
+LM0107A1A	人力資源主要指標-年	../PXfile/LaborForce/
+LM0107A1M	人力資源主要指標-月	../PXfile/LaborForce/
+folder: 勞動力按教育程度分
+LM0101A1A	勞動力按教育程度分-年	../PXfile/LaborForce/
+LM0101A1M	勞動力按教育程度分-月	../PXfile/LaborForce/
+folder: 勞動力按年齡分
+LM0102A1A	勞動力按年齡分-年	../PXfile/LaborForce/
+LM0102A1M	勞動力按年齡分-月	../PXfile/LaborForce/
+folder: 勞參率及失業率按教育程度分
+LM0108A1A	勞參率及失業率按教育程度分-年	../PXfile/LaborForce/
+LM0108A1M	勞參率及失業率按教育程度分-月	../PXfile/LaborForce/
+folder: 勞參率及失業率按年齡分
+LM0109A1A	勞參率及失業率按年齡分-年	../PXfile/LaborForce/
+LM0109A1M	勞參率及失業率按年齡分-月	../PXfile/LaborForce/
+folder: 各行業就業人口
+LM0103A3A	各行業就業人口(第六次修訂 1978-2001年)-年	../PXfile/LaborForce/
+LM0103A3M	各行業就業人口(第六次修訂 1978-2001年)-月	../PXfile/LaborForce/
+LM0103A1A	各行業就業人口(第七次修訂 1999-2006年)-年	../PXfile/LaborForce/
+LM0103A1M	各行業就業人口(第七次修訂 1999-2006年)-月	../PXfile/LaborForce/
+LM0103A2A	各行業就業人口(第八次修訂 2001年以後)-年	../PXfile/LaborForce/
+LM0103A2M	各行業就業人口(第八次修訂 2001年以後)-月	../PXfile/LaborForce/
+LM0103A4A	各行業就業人口(第九次修訂 2012年以後)-年	../PXfile/LaborForce/
+LM0103A4M	各行業就業人口(第九次修訂 2012年以後)-月	../PXfile/LaborForce/
+folder: 職業別就業人口
+LM0104A1A	職業別就業人口(第五次修訂 1978-2010年)-年	../PXfile/LaborForce/
+LM0104A1M	職業別就業人口(第五次修訂 1978-2010年)-月	../PXfile/LaborForce/
+LM0104A2A	職業別就業人口(第六次修訂 2009年以後)-年	../PXfile/LaborForce/
+LM0104A2M	職業別就業人口(第六次修訂 2009年以後)-月	../PXfile/LaborForce/
+folder: 從業身分別就業人口
+LM0105A1A	從業身分別就業人口-年	../PXfile/LaborForce/
+LM0105A1M	從業身分別就業人口-月	../PXfile/LaborForce/
+folder: 失業者平均失業週數
+LM0110A1A	失業者平均失業週數-年	../PXfile/LaborForce/
+LM0110A1M	失業者平均失業週數-月	../PXfile/LaborForce/
+folder: 失業者按失業原因分
+LM0111A1A	失業者按失業原因分-年	../PXfile/LaborForce/
+LM0111A1M	失業者按失業原因分-月	../PXfile/LaborForce/
+folder: 非勞動力人口原因
+LM0106A1A	非勞動力人口原因(舊版 1978-2006年)-年	../PXfile/LaborForce/
+LM0106A1M	非勞動力人口原因(舊版 1978-2006年)-月	../PXfile/LaborForce/
+LM0106A2A	非勞動力人口原因(新版 2006年以後)-年	../PXfile/LaborForce/
+LM0106A2M	非勞動力人口原因(新版 2006年以後)-月	../PXfile/LaborForce/
+folder: 薪資與生產力統計
+folder: 受僱員工人數
+LM6101A1A	受僱員工人數-年	../PXfile/LaborForce/
+LM6101A1M	受僱員工人數-月	../PXfile/LaborForce/
+folder: 平均薪資
+LM6201A1A	平均薪資-年	../PXfile/LaborForce/
+LM6201A1M	平均薪資-月	../PXfile/LaborForce/
+folder: 經常性平均薪資
+LM6301A1A	經常性平均薪資-年	../PXfile/LaborForce/
+LM6301A1M	經常性平均薪資-月	../PXfile/LaborForce/
+folder: 受僱員工每人每月平均工時
+LM6401A1A	受僱員工每人每月平均工時-年	../PXfile/LaborForce/
+LM6401A1M	受僱員工每人每月平均工時-月	../PXfile/LaborForce/
+folder: 受僱員工進退狀況
+LM6501A1A	受僱員工進退狀況-年	../PXfile/LaborForce/
+LM6501A1M	受僱員工進退狀況-月	../PXfile/LaborForce/
+folder: 勞動生產力指數與單位產出勞動成本指數
+LM6601A1A	重要勞動力指數-年	../PXfile/LaborForce/
+LM6601A1M	重要勞動力指數-月	../PXfile/LaborForce/
+folder: 職訓與就業服務統計
+folder: 職業訓練單位數及受訓人數
+LM1101A1A	職業訓練單位數及受訓人數-年	../PXfile/LaborForce/
+folder: 公立職訓機構訓練人數
+LM1102A1A	公立職訓機構訓練人數-年	../PXfile/LaborForce/
+LM1102A1M	公立職訓機構訓練人數-月	../PXfile/LaborForce/
+folder: 就業服務概況
+LM1103A1A	就業服務概況-年	../PXfile/LaborForce/
+LM1103A1M	就業服務概況-月	../PXfile/LaborForce/
+folder: 定額進用身心障礙者機構數及人數
+LM1104A1A	定額進用身心障礙者機構數及人數-年	../PXfile/LaborForce/
+LM1104A1M	定額進用身心障礙者機構數及人數-月	../PXfile/LaborForce/
+folder: 勞資關係與勞動條件統計
+folder: 勞雇雙方協商減少工時(無薪休假)
+LM1205A1M	勞雇雙方協商減少工時(無薪休假)-月	../PXfile/LaborForce/
+folder: 勞資爭議協商調處績效
+LM1201A1A	勞資爭議協商調處績效-年	../PXfile/LaborForce/
+LM1201A1M	勞資爭議協商調處績效-月	../PXfile/LaborForce/
+folder: 積欠工資墊償基金概況
+LM1202A1A	積欠工資墊償基金概況-年	../PXfile/LaborForce/
+LM1202A1M	積欠工資墊償基金概況-月	../PXfile/LaborForce/
+folder: 舊制勞工退休準備金提撥概況
+LM1203A1A	舊制勞工退休準備金提撥概況-年	../PXfile/LaborForce/
+LM1203A1M	舊制勞工退休準備金提撥概況-月	../PXfile/LaborForce/
+folder: 新制勞工退休金提繳概況
+LM1204A1A	新制勞工退休金提繳概況-年	../PXfile/LaborForce/
+LM1204A1M	新制勞工退休金提繳概況-月	../PXfile/LaborForce/
+folder: 外籍工作者統計
+folder: 外籍勞工人數
+LM1301A1A	外籍勞工人數-年	../PXfile/LaborForce/
+LM1301A1M	外籍勞工人數-月	../PXfile/LaborForce/
+folder: 外國專業人員有效聘僱許可人數
+LM1302A1A	外國專業人員有效聘僱許可人數-年	../PXfile/LaborForce/
+LM1302A1M	外國專業人員有效聘僱許可人數-月	../PXfile/LaborForce/
+folder: 勞工與就業保險統計
+folder: 勞工保險職業災害保險給付
+LM1401A1A	勞工保險職業災害保險給付-年	../PXfile/LaborForce/
+LM1401A1M	勞工保險職業災害保險給付-月	../PXfile/LaborForce/
+folder: 勞工保險投保單位數及人數
+LM1402A1A	勞工保險投保單位數及人數-年	../PXfile/LaborForce/
+LM1402A1M	勞工保險投保單位數及人數-月	../PXfile/LaborForce/
+folder: 就業保險失業給付情形
+LM1403A1A	就業保險失業給付情形-年	../PXfile/LaborForce/
+LM1403A1M	就業保險失業給付情形-月	../PXfile/LaborForce/
+folder: 就業保險投保單位數及人數
+LM1404A1A	就業保險投保單位數及人數-年	../PXfile/LaborForce/
+LM1404A1M	就業保險投保單位數及人數-月	../PXfile/LaborForce/
+folder: 職業災害勞工保護補助
+LM1405A1A	職業災害勞工保護補助-年	../PXfile/LaborForce/
+LM1405A1M	職業災害勞工保護補助-月	../PXfile/LaborForce/
+folder: 工商業統計
+folder: 工業生產指數
+ES0104A1A	工業生產指數-年	../PXfile/EconomicStatistics/
+ES0104A1M	工業生產指數-月	../PXfile/EconomicStatistics/
+folder: 外銷訂單
+folder: 主要接單地區
+ES0105A1A	主要接單地區-年	../PXfile/EconomicStatistics/
+ES0105A1M	主要接單地區-月	../PXfile/EconomicStatistics/
+folder: 主要接單貨品
+ES0106A1A	主要接單貨品-年	../PXfile/EconomicStatistics/
+ES0106A1M	主要接單貨品-月	../PXfile/EconomicStatistics/
+folder: 企業營業額
+ES0107A2A	租賃業、專業及技術服務業營業額-年	../PXfile/EconomicStatistics/
+ES0107A2Q	租賃業、專業及技術服務業營業額-季	../PXfile/EconomicStatistics/
+ES0107A3A	批發零售及餐飲業營業額-年	../PXfile/EconomicStatistics/
+ES0107A3M	批發零售及餐飲業營業額-月	../PXfile/EconomicStatistics/
+folder: 工商業登記動態
+folder: 工廠動態
+folder: 新登記及歇業
+ES0108A5A	工廠-新登記及歇業(第六次修訂 1973-2001年)-年	../PXfile/EconomicStatistics/
+ES0108A5M	工廠-新登記及歇業(第六次修訂 1973-2001年)-月	../PXfile/EconomicStatistics/
+ES0108A6A	工廠-新登記及歇業(第七次修訂 2002-2006年)-年	../PXfile/EconomicStatistics/
+ES0108A6M	工廠-新登記及歇業(第七次修訂 2002-2006年)-月	../PXfile/EconomicStatistics/
+ES0108A4A	工廠-新登記及歇業(第八次修正 2007年以後)-年	../PXfile/EconomicStatistics/
+ES0108A4M	工廠-新登記及歇業(第八次修正 2007年以後)-月	../PXfile/EconomicStatistics/
+folder: 營運中
+ES0108A8A	工廠-營運中(第六次修訂 1979-1996年)-年	../PXfile/EconomicStatistics/
+ES0108A7A	工廠-營運中(第八次修訂 1997年以後)-年	../PXfile/EconomicStatistics/
+folder: 公司動態
+ES0109A2A	公司動態(第六次修正 1971-2001年)-年	../PXfile/EconomicStatistics/
+ES0109A2M	公司動態(第六次修正 1971-2001年)-月	../PXfile/EconomicStatistics/
+ES0109A3A	公司動態(第七次修正 2002-2006年)-年	../PXfile/EconomicStatistics/
+ES0109A3M	公司動態(第七次修正 2002-2006年)-月	../PXfile/EconomicStatistics/
+ES0109A1A	公司動態(第八次修正 2007年以後)-年	../PXfile/EconomicStatistics/
+ES0109A1M	公司動態(第八次修正 2007年以後)-月	../PXfile/EconomicStatistics/
+folder: 商業動態
+ES0110A2A	商業動態(第五次修正 1971-1990年)-年	../PXfile/EconomicStatistics/
+ES0110A3A	商業動態(第六次修正 1991-2003年)-年	../PXfile/EconomicStatistics/
+ES0110A3M	商業動態(第六次修正 1991-2003年)-月	../PXfile/EconomicStatistics/
+ES0110A4A	商業動態(第七次修正 2004-2006年)-年	../PXfile/EconomicStatistics/
+ES0110A4M	商業動態(第七次修正 2004-2006年)-月	../PXfile/EconomicStatistics/
+ES0110A1A	商業動態(第八次修正 2007年以後)-年	../PXfile/EconomicStatistics/
+ES0110A1M	商業動態(第八次修正 2007年以後)-月	../PXfile/EconomicStatistics/
+folder: 營建與不動產統計
+folder: 建造執照
+HC0101A1A	核發建築物建造執照總樓地板面積-按用途別分-年	../PXfile/Construction/
+HC0101A1M	核發建築物建造執照總樓地板面積-按用途別分-月	../PXfile/Construction/
+HC0102A1A	核發建築物建造執照-按構造別分-年	../PXfile/Construction/
+HC0102A1M	核發建築物建造執照-按構造別分-月	../PXfile/Construction/
+folder: 使用執照
+HC0103A1A	核發建築物使用執照總樓地板面積-按用途別分-年	../PXfile/Construction/
+HC0103A1M	核發建築物使用執照總樓地板面積-按用途別分-月	../PXfile/Construction/
+HC0104A1A	核發建築物使用執照-按構造別分-年	../PXfile/Construction/
+HC0104A1M	核發建築物使用執照-按構造別分-月	../PXfile/Construction/
+folder: 拆除執照
+HC0105A1A	核發建築物拆除執照-按用途別分-年	../PXfile/Construction/
+HC0105A1M	核發建築物拆除執照-按用途別分-月	../PXfile/Construction/
+folder: 交通統計
+folder: 運輸統計
+folder: 鐵路客、貨運
+TK0101A1A	鐵路客運量-年	../PXfile/Transportation/
+TK0101A1M	鐵路客運量-月	../PXfile/Transportation/
+TK0101A2A	鐵路貨運量-年	../PXfile/Transportation/
+TK0101A2M	鐵路貨運量-月	../PXfile/Transportation/
+folder: 汽車客、貨運
+TK0102A1A	汽車客運營運概況-年	../PXfile/Transportation/
+TK0102A1M	汽車客運營運概況-月	../PXfile/Transportation/
+TK0102A2A	公路汽車貨運營運概況-年	../PXfile/Transportation/
+TK0102A2M	公路汽車貨運營運概況-月	../PXfile/Transportation/
+folder: 航空客、貨運
+TK0103A1A	航空客、貨運-年	../PXfile/Transportation/
+TK0103A1M	航空客、貨運-月	../PXfile/Transportation/
+folder: 水上運輸客、貨運
+TK0104A1A	各國際商港進出港旅客人數-年	../PXfile/Transportation/
+TK0104A1M	各國際商港進出港旅客人數-月	../PXfile/Transportation/
+TK0104A2A	各國際商港貨物吞吐量-年	../PXfile/Transportation/
+TK0104A2M	各國際商港貨物吞吐量-月	../PXfile/Transportation/
+TK0104A3A	各國際商港貨櫃裝卸量-年	../PXfile/Transportation/
+TK0104A3M	各國際商港貨櫃裝卸量-月	../PXfile/Transportation/
+folder: 民航各機場旅客人數
+TK0103A2A	民航各機場旅客人數-年	../PXfile/Transportation/
+TK0103A2M	民航各機場旅客人數-月	../PXfile/Transportation/
+folder: 自由貿易港區貿易值
+TK0103A3A	自由貿易港區貿易值-年	../PXfile/Transportation/
+TK0103A3M	自由貿易港區貿易值-月	../PXfile/Transportation/
+folder: 機動車輛登記數
+TK0105A1A	機動車輛登記數-年	../PXfile/Transportation/
+TK0105A1M	機動車輛登記數-月	../PXfile/Transportation/
+folder: 高速公路各收費站通行車輛次數
+TK0106A1A	高速公路各收費站通行車輛次數-年	../PXfile/Transportation/
+TK0106A1M	高速公路各收費站通行車輛次數-月	../PXfile/Transportation/
+folder: 郵政統計
+folder: 中華郵政公司營運統計
+TK0201A1A	中華郵政公司營運統計-年	../PXfile/Transportation/
+TK0201A1M	中華郵政公司營運統計-月	../PXfile/Transportation/
+folder: 兩岸郵件往返
+TK0202A1A	兩岸郵政往返-年	../PXfile/Transportation/
+TK0202A1M	兩岸郵政往返-月	../PXfile/Transportation/
+folder: 電信統計
+folder: 電信業者營運實績
+TK1101A1A	電信業者營運實績-年	../PXfile/Transportation/
+TK1101A1M	電信業者營運實績-月	../PXfile/Transportation/
+folder: 兩岸來去電話量
+TK1102A1A	兩岸來去電話量-年	../PXfile/Transportation/
+TK1102A1M	兩岸來去電話量-月	../PXfile/Transportation/
+folder: 觀光統計
+folder: 觀光旅館概況
+TK0301A1A	觀光旅館概況-年	../PXfile/Transportation/
+TK0301A1M	觀光旅館概況-月	../PXfile/Transportation/
+folder: 來台旅客人數
+TK0302A1A	來臺旅客人數按居住地分-年	../PXfile/Transportation/
+TK0302A1M	來臺旅客人數按居住地分-月	../PXfile/Transportation/
+TK0302A2A	來台旅客人數按目的分-年	../PXfile/Transportation/
+TK0302A2M	來台旅客人數按目的分-月	../PXfile/Transportation/
+folder: 國人出國人數
+TK0302A3A	國人出國人數按目的地分-年	../PXfile/Transportation/
+TK0302A3M	國人出國人數按目的地分-月	../PXfile/Transportation/
+folder: 進出口統計
+folder: 進出口貿易總值
+CT0200A1A	進出口貿易總值-年	../PXfile/InternationalTrade/
+CT0200A1M	進出口貿易總值-月	../PXfile/InternationalTrade/
+folder: 進出口貿易值-國家別
+folder: 主要國家別
+CT0209A1A	進出口貿易值-主要國家地區別-年	../PXfile/InternationalTrade/
+CT0209A1M	進出口貿易值-主要國家地區別-月	../PXfile/InternationalTrade/
+folder: 亞洲
+CT0201A1A	國家(地區)別進出口貿易值-亞洲-年	../PXfile/InternationalTrade/
+CT0201A1M	國家(地區)別進出口貿易值-亞洲-月	../PXfile/InternationalTrade/
+folder: 中東
+CT0202A1A	國家(地區)別進出口貿易值-中東及近東-年	../PXfile/InternationalTrade/
+CT0202A1M	國家(地區)別進出口貿易值-中東及近東-月	../PXfile/InternationalTrade/
+folder: 歐洲
+CT0203A1A	國家(地區)別進出口貿易值-歐洲-年	../PXfile/InternationalTrade/
+CT0203A1M	國家(地區)別進出口貿易值-歐洲-月	../PXfile/InternationalTrade/
+folder: 非洲
+CT0204A1A	國家(地區)別進出口貿易值-非洲-年	../PXfile/InternationalTrade/
+CT0204A1M	國家(地區)別進出口貿易值-非洲-月	../PXfile/InternationalTrade/
+folder: 北美洲
+CT0205A1A	國家(地區)別進出口貿易值-北美洲-年	../PXfile/InternationalTrade/
+CT0205A1M	國家(地區)別進出口貿易值-北美洲-月	../PXfile/InternationalTrade/
+folder: 中美洲
+CT0206A1A	國家(地區)別進出口貿易值-中美洲-年	../PXfile/InternationalTrade/
+CT0206A1M	國家(地區)別進出口貿易值-中美洲-月	../PXfile/InternationalTrade/
+folder: 南美洲
+CT0207A1A	國家(地區)別進出口貿易值-南美洲-年	../PXfile/InternationalTrade/
+CT0207A1M	國家(地區)別進出口貿易值-南美洲-月	../PXfile/InternationalTrade/
+folder: 大洋洲
+CT0208A1A	國家(地區)別進出口貿易值-大洋洲-年	../PXfile/InternationalTrade/
+CT0208A1M	國家(地區)別進出口貿易值-大洋洲-月	../PXfile/InternationalTrade/
+folder: 進出口貿易結構
+CT0301A1A	進出口貿易結構-年	../PXfile/InternationalTrade/
+CT0301A1M	進出口貿易結構-月	../PXfile/InternationalTrade/
+folder: 出口值-主要貨品別
+CT0701A1A	進出口主要貨品分類金額-出口-年	../PXfile/InternationalTrade/
+CT0701A1M	進出口主要貨品分類金額-出口-月	../PXfile/InternationalTrade/
+folder: 進口值-主要貨品別
+CT0702A1A	進出口主要貨品分類金額-進口-年	../PXfile/InternationalTrade/
+CT0702A1M	進出口主要貨品分類金額-進口-月	../PXfile/InternationalTrade/
+folder: 金融統計
+folder: 各類金融機構家數
+FM0201A1A	各類金融機構家數-年	../PXfile/FinancialStatistics/
+FM0201A1M	各類金融機構家數-月	../PXfile/FinancialStatistics/
+folder: 貨幣供給
+folder: 準備貨幣
+FM0301A1A	準備貨幣-年	../PXfile/FinancialStatistics/
+FM0301A1M	準備貨幣-月	../PXfile/FinancialStatistics/
+FM0401A1A	準備貨幣變動因素分析-年	../PXfile/FinancialStatistics/
+FM0401A1M	準備貨幣變動因素分析-月	../PXfile/FinancialStatistics/
+folder: 貨幣總計數
+FM0501A1A	貨幣總計數-年	../PXfile/FinancialStatistics/
+FM0501A1M	貨幣總計數-月	../PXfile/FinancialStatistics/
+FM0601A1A	貨幣總計數M1B變動因素分析-年	../PXfile/FinancialStatistics/
+FM0601A1M	貨幣總計數M1B變動因素分析-月	../PXfile/FinancialStatistics/
+FM0701A1A	廣義貨幣總計數M2變動因素分析-年	../PXfile/FinancialStatistics/
+FM0701A1M	廣義貨幣總計數M2變動因素分析-月	../PXfile/FinancialStatistics/
+folder: 資產負債統計表
+folder: 全體金融機構
+folder:  總表
+FM1201A1A	全體金融機構資產負債統計表 -年	../PXfile/FinancialStatistics/
+FM1201A1M	全體金融機構資產負債統計表 -月	../PXfile/FinancialStatistics/
+folder: 全體貨幣機構
+folder: 總表
+FM1001A1A	全體貨幣機構資產負債統計表 -年	../PXfile/FinancialStatistics/
+FM1001A1M	全體貨幣機構資產負債統計表 -月	../PXfile/FinancialStatistics/
+folder: 中央銀行
+FM0801A1A	中央銀行資產負債統計表-年	../PXfile/FinancialStatistics/
+FM0801A1M	中央銀行資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 其他貨幣機構
+folder: 總表
+FM0901A1A	其他貨幣機構資產負債統計表 -年	../PXfile/FinancialStatistics/
+FM0901A1M	其他貨幣機構資產負債統計表 -月	../PXfile/FinancialStatistics/
+folder: 本國銀行
+FM1202A1A	本國銀行資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1202A1M	本國銀行資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 外國銀行在台分行
+FM1203A1A	外國銀行在台分行資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1203A1M	外國銀行在台分行資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 信用合作社
+FM1205A1A	信用合作社資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1205A1M	信用合作社資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 農漁會信用部
+FM1206A1A	農漁會信用部資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1206A1M	農漁會信用部資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 中華郵政公司儲匯處
+FM1207A1A	中華郵政公司儲匯處資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1207A1M	中華郵政公司儲匯處資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 信託投資公司
+FM1209A1A	信託投資公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1209A1M	信託投資公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 人壽保險公司
+FM1210A1A	人壽保險公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM1210A1M	人壽保險公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 產物保險公司
+FM2201A1A	產物保險公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM2201A1M	產物保險公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 中央存款保險公司
+FM2301A1A	中央存款保險公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM2301A1M	中央存款保險公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 票券金融公司
+FM2401A1A	票券金融公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM2401A1M	票券金融公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 證券金融公司
+FM2501A1A	證券金融公司資產負債統計表-年	../PXfile/FinancialStatistics/
+FM2501A1M	證券金融公司資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 國際金融業務分行
+FM3301A1M	國際金融業務分行資產負債統計表-月	../PXfile/FinancialStatistics/
+folder: 存款貨幣流通量統計
+FM1301A1A	存款貨幣流通量-年	../PXfile/FinancialStatistics/
+FM1301A1M	存款貨幣流通量-月	../PXfile/FinancialStatistics/
+folder: 準備金與流動準備統計
+FM1401A1A	準備金與流動準備-年	../PXfile/FinancialStatistics/
+FM1401A1M	準備金與流動準備-月	../PXfile/FinancialStatistics/
+folder: 全體銀行存款餘額統計
+FM1701A1A	全體銀行存款餘額-科目別-年	../PXfile/FinancialStatistics/
+FM1701A1M	全體銀行存款餘額-科目別-月	../PXfile/FinancialStatistics/
+FM1702A1A	全體銀行存款餘額-存戶行業別-年	../PXfile/FinancialStatistics/
+FM1702A1M	全體銀行存款餘額-存戶行業別-月	../PXfile/FinancialStatistics/
+FM1703A1A	全體銀行存款餘額-存戶部門別-年	../PXfile/FinancialStatistics/
+FM1703A1M	全體銀行存款餘額-存戶部門別-月	../PXfile/FinancialStatistics/
+FM1704A1M	全體銀行存款餘額-附 定期存款及定期儲蓄存款-1.期限別-月	../PXfile/FinancialStatistics/
+FM1705A1M	全體銀行存款餘額-附 定期存款及定期儲蓄存款-2.存戶別-月	../PXfile/FinancialStatistics/
+FM1706A1M	全體銀行存款餘額-附 定期存款及定期儲蓄存款-3.額度別-月	../PXfile/FinancialStatistics/
+folder: 全體銀行放款餘額統計
+FM1801A1A	全體銀行放款餘額-科目別-年	../PXfile/FinancialStatistics/
+FM1801A1M	全體銀行放款餘額-科目別-月	../PXfile/FinancialStatistics/
+FM1802A1A	全體銀行放款餘額-借戶部門部-年	../PXfile/FinancialStatistics/
+FM1802A1M	全體銀行放款餘額-借戶部門部-月	../PXfile/FinancialStatistics/
+FM1803A1A	全體銀行放款餘額-借戶行業別-年	../PXfile/FinancialStatistics/
+FM1803A1M	全體銀行放款餘額-借戶行業別-月	../PXfile/FinancialStatistics/
+FM1804A1A	全體銀行對公民營製造業放款餘額-年	../PXfile/FinancialStatistics/
+FM1804A1M	全體銀行對公民營製造業放款餘額-月	../PXfile/FinancialStatistics/
+FM1805A1A	全體銀行放款餘額-額度別-年	../PXfile/FinancialStatistics/
+FM1805A1M	全體銀行放款餘額-額度別-月	../PXfile/FinancialStatistics/
+FM1806A1A	全體銀行放款餘額-期限別-年	../PXfile/FinancialStatistics/
+FM1806A1M	全體銀行放款餘額-期限別-月	../PXfile/FinancialStatistics/
+FM1901A1A	消費者貸款及建築貸款餘額-年	../PXfile/FinancialStatistics/
+FM1901A1M	消費者貸款及建築貸款餘額-月	../PXfile/FinancialStatistics/
+FM2001A1A	全體銀行外幣放款餘額-年	../PXfile/FinancialStatistics/
+FM2001A1M	全體銀行外幣放款餘額-月	../PXfile/FinancialStatistics/
+folder: 金融業拆款市場統計
+folder: 機構別
+FM2601A1A	金融業拆款統計表-拆款金額機構別-年	../PXfile/FinancialStatistics/
+FM2601A1M	金融業拆款統計表-拆款金額機構別-月	../PXfile/FinancialStatistics/
+FM2602A1A	金融業拆款統計表-拆款餘額機構別-年	../PXfile/FinancialStatistics/
+FM2602A1M	金融業拆款統計表-拆款餘額機構別-月	../PXfile/FinancialStatistics/
+folder: 期限別
+FM2603A1A	金融業拆款統計表-拆款金額期限別-年	../PXfile/FinancialStatistics/
+FM2603A1M	金融業拆款統計表-拆款金額期限別-月	../PXfile/FinancialStatistics/
+FM2604A1A	金融業拆款統計表-拆款餘額期限別-年	../PXfile/FinancialStatistics/
+FM2604A1M	金融業拆款統計表-拆款餘額期限別-月	../PXfile/FinancialStatistics/
+folder: 票券市場統計-交易金額工具別
+FM2701A1A	票券市場統計-交易金額工具別-年	../PXfile/FinancialStatistics/
+FM2701A1M	票券市場統計-交易金額工具別-月	../PXfile/FinancialStatistics/
+FM2702A1A	票券市場統計-交易金額對象別-年	../PXfile/FinancialStatistics/
+FM2702A1M	票券市場統計-交易金額對象別-月	../PXfile/FinancialStatistics/
+FM2703A1A	票券市場統計-發行、償還及餘額-年	../PXfile/FinancialStatistics/
+FM2703A1M	票券市場統計-發行、償還及餘額-月	../PXfile/FinancialStatistics/
+folder: 債券市場統計
+FM2802A1A	債券市場統計-政府公債之發行、償還及餘額-年	../PXfile/FinancialStatistics/
+FM2802A1M	債券市場統計-政府公債之發行、償還及餘額-月	../PXfile/FinancialStatistics/
+FM2803A1A	債券市場統計-國內公司債及金融債券之發行、償還及餘額-年	../PXfile/FinancialStatistics/
+FM2803A1M	債券市場統計-國內公司債及金融債券之發行、償還及餘額-月	../PXfile/FinancialStatistics/
+folder: 股票市場統計
+FM2901A1A	股票市場統計-股票信用交易-年	../PXfile/FinancialStatistics/
+FM2901A1M	股票市場統計-股票信用交易-月	../PXfile/FinancialStatistics/
+FM2902A1A	股票市場統計-股票交易與股價指數-年	../PXfile/FinancialStatistics/
+FM2902A1M	股票市場統計-股票交易與股價指數-月	../PXfile/FinancialStatistics/
+folder: 利率統計
+FM3003A1A	利率-存放款加權平均利率-年	../PXfile/FinancialStatistics/
+FM3003A1Q	利率-存放款加權平均利率-季	../PXfile/FinancialStatistics/
+FM3004A1A	利率-五大銀行新承做放款金額與利率-年	../PXfile/FinancialStatistics/
+FM3004A1M	利率-五大銀行新承做放款金額與利率-月	../PXfile/FinancialStatistics/
+FM3005A1A	利率-金融業拆款利率-年	../PXfile/FinancialStatistics/
+FM3005A1M	利率-金融業拆款利率-月	../PXfile/FinancialStatistics/
+FM3006A1A	利率-貨幣市場利率-年	../PXfile/FinancialStatistics/
+FM3006A1M	利率-貨幣市場利率-月	../PXfile/FinancialStatistics/
+FM3007A1A	利率-資本市場利率-年	../PXfile/FinancialStatistics/
+FM3007A1M	利率-資本市場利率-月	../PXfile/FinancialStatistics/
+folder: 外匯統計
+FM3101A1A	外匯統計-出進口外匯收支-年	../PXfile/FinancialStatistics/
+FM3101A1M	外匯統計-出進口外匯收支-月	../PXfile/FinancialStatistics/
+FM3102A1A	外匯統計-外匯交易量、淨部位及外匯存底-年	../PXfile/FinancialStatistics/
+FM3102A1M	外匯統計-外匯交易量、淨部位及外匯存底-月	../PXfile/FinancialStatistics/
+FM3103A1A	外匯統計-台北外幣拆放市場交易-年	../PXfile/FinancialStatistics/
+FM3103A1M	外匯統計-台北外幣拆放市場交易-月	../PXfile/FinancialStatistics/
+FM3201A1A	外匯匯率-美元即期匯率及遠期信用狀美金利率-年	../PXfile/FinancialStatistics/
+FM3201A1M	外匯匯率-美元即期匯率及遠期信用狀美金利率-月	../PXfile/FinancialStatistics/
+FM3202A1A	外匯匯率-即期匯率-年	../PXfile/FinancialStatistics/
+FM3202A1M	外匯匯率-即期匯率-月	../PXfile/FinancialStatistics/
+FM3203A1A	外匯匯率-美元兌新台幣遠期匯率-年	../PXfile/FinancialStatistics/
+FM3203A1M	外匯匯率-美元兌新台幣遠期匯率-月	../PXfile/FinancialStatistics/
+FM3601A1A	我國與十六個主要貿易對手通貨對美元之匯率-年	../PXfile/FinancialStatistics/
+FM3601A1M	我國與十六個主要貿易對手通貨對美元之匯率-月	../PXfile/FinancialStatistics/
+folder: 金融帳表
+folder: 國際收支平衡表
+FM3501A1A	國際收支簡表-年	../PXfile/FinancialStatistics/
+FM3501A1Q	國際收支簡表-季	../PXfile/FinancialStatistics/
+FM3502A1A	國際收支細表-年	../PXfile/FinancialStatistics/
+FM3502A1Q	國際收支細表-季	../PXfile/FinancialStatistics/
+folder: 衍生性金融交易
+folder: 銀行間交易量
+FM3701A1M	銀行間衍生性金融商品交易量彙總表-月	../PXfile/FinancialStatistics/
+FM3703A1M	衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3704A1M	店頭市場單一幣別之利率衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3705A1M	交易所利率衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3706A1M	店頭市場匯率衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3707A1M	交易所匯率衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3708A1M	權益證券與商品衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3709A1M	信用衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+FM3710A1M	其他衍生性金融商品名目本金交易量-月	../PXfile/FinancialStatistics/
+folder: 銀行間名目本金餘額
+FM3702A1Q	銀行間衍生性金融商品名目本金餘額彙總表-季	../PXfile/FinancialStatistics/
+FM3711A1Q	衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3712A1Q	單一幣別之利率衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3713A1Q	匯率衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3714A1Q	權益證券衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3715A1Q	商品衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3716A1Q	信用衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+FM3717A1Q	其他衍生性金融商品名目本金餘額-季	../PXfile/FinancialStatistics/
+folder: 資金流量統計
+folder: 金融性資產負債
+folder: 國內金融性資產負債項目表(新版/含國外部門/2000年以後)
+FM9101A1A	金融性資產負債項目表(2000年以後)-通貨-年	../PXfile/FinancialStatistics/
+FM9102A1A	金融性資產負債項目表(2000年以後)-活期性存款-年	../PXfile/FinancialStatistics/
+FM9103A1A	金融性資產負債項目表(2000年以後)-定期性存款及外匯存款-年	../PXfile/FinancialStatistics/
+FM9104A1A	金融性資產負債項目表(2000年以後)-國外存款-年	../PXfile/FinancialStatistics/
+FM9105A1A	金融性資產負債項目表(2000年以後)-政府存款-年	../PXfile/FinancialStatistics/
+FM9106A1A	金融性資產負債項目表(2000年以後)-準備性存款-年	../PXfile/FinancialStatistics/
+FM9107A1A	金融性資產負債項目表(2000年以後)-非準備性存款-年	../PXfile/FinancialStatistics/
+FM9108A1A	金融性資產負債項目表(2000年以後)-中央銀行單券-年	../PXfile/FinancialStatistics/
+FM9109A1A	金融性資產負債項目表(2000年以後)-中央銀行融通-年	../PXfile/FinancialStatistics/
+FM9110A1A	金融性資產負債項目表(2000年以後)-金融機構同業往來-年	../PXfile/FinancialStatistics/
+FM9111A1A	金融性資產負債項目表(2000年以後)-金融機構放款-年	../PXfile/FinancialStatistics/
+FM9112A1A	金融性資產負債項目表(2000年以後)-附條件交易-年	../PXfile/FinancialStatistics/
+FM9113A1A	金融性資產負債項目表(2000年以後)-非金融部門放款-年	../PXfile/FinancialStatistics/
+FM9114A1A	金融性資產負債項目表(2000年以後)-短期票券-年	../PXfile/FinancialStatistics/
+FM9115A1A	金融性資產負債項目表(2000年以後)-政府債券-年	../PXfile/FinancialStatistics/
+FM9116A1A	金融性資產負債項目表(2000年以後)-國內公司債-年	../PXfile/FinancialStatistics/
+FM9117A1A	金融性資產負債項目表(2000年以後)-金融債券-年	../PXfile/FinancialStatistics/
+FM9118A1A	金融性資產負債項目表(2000年以後)-共同基金-年	../PXfile/FinancialStatistics/
+FM9119A1A	金融性資產負債項目表(2000年以後)-上市上櫃公司股權-年	../PXfile/FinancialStatistics/
+FM9120A1A	金融性資產負債項目表(2000年以後)-其他企業權益-年	../PXfile/FinancialStatistics/
+FM9121A1A	金融性資產負債項目表(2000年以後)-人壽保險準備-年	../PXfile/FinancialStatistics/
+FM9122A1A	金融性資產負債項目表(2000年以後)-退休基金準備-年	../PXfile/FinancialStatistics/
+FM9123A1A	金融性資產負債項目表(2000年以後)-應收應付款-年	../PXfile/FinancialStatistics/
+FM9124A1A	金融性資產負債項目表(2000年以後)-對外直接投資-年	../PXfile/FinancialStatistics/
+FM9125A1A	金融性資產負債項目表(2000年以後)-國外證券-年	../PXfile/FinancialStatistics/
+FM9126A1A	金融性資產負債項目表(2000年以後)-中央銀行準備資產-年	../PXfile/FinancialStatistics/
+folder: 國內金融性資產負債項目表(舊版/不含國外部門/1982-2004年)
+FM6104A1A	國內金融性資產負債項目表-通貨(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6105A1A	國內金融性資產負債項目表-活期性存款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6106A1A	國內金融性資產負債項目表-定期性存款及外匯存款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6107A1A	國內金融性資產負債項目表-信託資金(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6108A1A	國內金融性資產負債項目表-政府存款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6109A1A	國內金融性資產負債項目表-準備性存款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6110A1A	國內金融性資產負債項目表-非準備性存款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6111A1A	國內金融性資產負債項目表-中央銀行單券(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6112A1A	國內金融性資產負債項目表-中央銀行融通(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6113A1A	國內金融性資產負債項目表-金融機構同業往來(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6114A1A	國內金融性資產負債項目表-金融機構放款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6115A1A	國內金融性資產負債項目表-企業對家庭之借貸(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6116A1A	國內金融性資產負債項目表-政府機關貸款(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6117A1A	國內金融性資產負債項目表-政府債券(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6118A1A	國內金融性資產負債項目表-商業本票(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6119A1A	國內金融性資產負債項目表-銀行承兌匯票(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6120A1A	國內金融性資產負債項目表-公司債(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6121A1A	國內金融性資產負債項目表-金融債券(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6122A1A	國內金融性資產負債項目表-共同基金(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6123A1A	國內金融性資產負債項目表-公司股權(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6124A1A	國內金融性資產負債項目表-非公司企業權益(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6125A1A	國內金融性資產負債項目表-人壽保險準備(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6126A1A	國內金融性資產負債項目表-退休金準備(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6127A1A	國內金融性資產負債項目表-商業信用(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM6103A1A	各部門國內金融性資產負債餘額綜合表(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM8101A1A	金融性資產負債餘額表(2000年以後)-年	../PXfile/FinancialStatistics/
+FM7101A1A	資金流量帳戶綜合表(1983-2004年)-年	../PXfile/FinancialStatistics/
+FM7102A1A	資金流量帳戶體系(1983-2004年)-年	../PXfile/FinancialStatistics/
+FM8102A1A	資金流量表(2001年以後)-年	../PXfile/FinancialStatistics/
+folder: 公民營企業資金狀況
+FM5101A1A	全體公營事業歷年資產負債表(1982-2004年)-年	../PXfile/FinancialStatistics/
+FM5102A1A	全體民營企業歷年資產負債表(1982-2004年)-年	../PXfile/FinancialStatistics/
+folder: 信用卡流通統計
+FM9601A1A	信用卡流通統計-年	../PXfile/FinancialStatistics/
+FM9601A1M	信用卡流通統計-月	../PXfile/FinancialStatistics/
+folder: 財政統計
+folder: 營利事業家數及銷售額－按稅務行業別分
+PF0102A2A	營利事業家數及銷售額－按稅務行業別分(第五次修訂)-年	../PXfile/PublicFinance/
+PF0102A1A	營利事業家數及銷售額－按稅務行業別分(第六次修訂)-年	../PXfile/PublicFinance/
+PF0102A3A	營利事業家數及銷售額－按稅務行業別分(第七次修訂)-年	../PXfile/PublicFinance/
+folder: 全國賦稅實徵淨額－按稅目別分
+PF0101A1A	全國賦稅實徵淨額－按稅目別分-年	../PXfile/PublicFinance/
+PF0101A1M	全國賦稅實徵淨額－按稅目別分-月	../PXfile/PublicFinance/
+folder: 各級政府歲入歲出淨額
+folder: 來源別
+PF0202A1A	各級政府歲入淨額－按來源別分-年	../PXfile/PublicFinance/
+folder: 政事別
+PF0203A1A	各級政府歲出淨額－按政事別分-年	../PXfile/PublicFinance/
+folder: 政府別
+PF0204A1A	各級政府歲入淨額－按政府別分-年	../PXfile/PublicFinance/
+PF0205A1A	各級政府歲出淨額－按政府別分-年	../PXfile/PublicFinance/
+PF0201A1A	各級政府歲入歲出淨額-年	../PXfile/PublicFinance/
+folder: 各級政府債務累計未償餘額
+PF0210A1A	各級政府債務累積未償餘額-年	../PXfile/PublicFinance/
+folder: 證券暨期貨交易統計
+folder: 公開發行公司股票發行概況
+SF0101A1A	公開發行公司股票發行概況-年	../PXfile/Securities/
+SF0101A1M	公開發行公司股票發行概況-月	../PXfile/Securities/
+folder: 集中市場證券總成交值概況
+SF0201A1A	集中市場證券總成交值概況-年	../PXfile/Securities/
+SF0201A1M	集中市場證券總成交值概況-月	../PXfile/Securities/
+folder: 集中市場股票交易概況
+SF0203A1A	集中市場股票交易概況-年	../PXfile/Securities/
+SF0203A1M	集中市場股票交易概況-月	../PXfile/Securities/
+folder: 店頭市場股票交易概況
+SF0204A1A	店頭市場股票交易概況-年	../PXfile/Securities/
+SF0204A1M	店頭市場股票交易概況-月	../PXfile/Securities/
+folder: 集中交易市場成交金額投資人類別比例
+SF0208A1A	集中交易市場成交金額投資人類別比例-年	../PXfile/Securities/
+SF0208A1M	集中交易市場成交金額投資人類別比例-月	../PXfile/Securities/
+folder: 集中交易市場投資法人交易概況
+SF0210A1A	集中交易市場投資法人交易概況-年	../PXfile/Securities/
+SF0210A1M	集中交易市場投資法人交易概況-月	../PXfile/Securities/
+folder: 外資投入我國股市概況表
+SF0301A1A	外資投入我國股市概況表-年	../PXfile/Securities/
+SF0301A1M	外資投入我國股市概況表-月	../PXfile/Securities/
+folder: 上市股票平均每股市值及獲利概況
+SF0401A1A	上市股票平均每股市值及獲利概況-年	../PXfile/Securities/
+SF0401A1M	上市股票平均每股市值及獲利概況-月	../PXfile/Securities/
+folder: 證券市場股價指數變動概況
+SF0404A1A	證券市場股價指數變動概況(期底)-年	../PXfile/Securities/
+SF0404A1M	證券市場股價指數變動概況(期底)-月	../PXfile/Securities/
+folder: 各國證券市場股價指數比較
+SF0501A1A	各國證券市場股價指數比較(期底)-年	../PXfile/Securities/
+SF0501A1M	各國證券市場股價指數比較(期底)-月	../PXfile/Securities/
+folder: 其他重要指標
+SF0701A1A	其他重要指標-年	../PXfile/Securities/
+SF0701A1M	其他重要指標-月	../PXfile/Securities/
+folder: 景氣指標統計
+ES0101A1M	景氣領先指標-月	../PXfile/EconomicStatistics/
+ES0102A1M	景氣同時指標-月	../PXfile/EconomicStatistics/
+ES0103A1M	景氣對策信號(分數)-月	../PXfile/EconomicStatistics/
+folder: 人口統計
+folder: 村里鄰戶數暨人口數
+Po0201A1A	村里鄰戶數暨人口數-年	../PXfile/Population/
+Po0201A1M	村里鄰戶數暨人口數-月	../PXfile/Population/
+folder: 現住原住民人口數
+Po0202A1A	現住原住民人口數-年	../PXfile/Population/
+Po0202A1M	現住原住民人口數-月	../PXfile/Population/
+folder: 出生、死亡統計
+Po0203A1A	出生、死亡統計-年	../PXfile/Population/
+Po0203A1M	出生、死亡統計-月	../PXfile/Population/
+folder: 現住人口數按年齡分
+Po0204A1A	現住人口數按年齡分-年	../PXfile/Population/
+Po0204A1M	現住人口數按年齡分-月	../PXfile/Population/
+folder: 現住原住民人口數按年齡分
+Po0205A1A	現住原住民人口數按年齡分-年	../PXfile/Population/
+Po0205A1M	現住原住民人口數按年齡分-月	../PXfile/Population/
+folder: 結婚、離婚統計
+Po0206A1A	結婚、離婚統計-年	../PXfile/Population/
+Po0206A1M	結婚、離婚統計-月	../PXfile/Population/
+folder: 嬰兒出生數按生母國籍別分
+Po0207A1A	嬰兒出生數按生母國籍別分-年	../PXfile/Population/
+Po0207A1M	嬰兒出生數按生母國籍別分-月	../PXfile/Population/
+folder: 人口數按教育程度分
+Po0208A1A	人口數按教育程度分-年	../PXfile/Population/
+folder: 婚姻狀況統計
+Po0209A1A	婚姻狀況統計-年	../PXfile/Population/
+folder: 平均餘命
+Po0215A1A	平均餘命-年	../PXfile/Population/
+folder: 國際、內戶籍遷入、遷出、淨遷入人數
+Po0210A1A	國際、內戶籍遷入、遷出、淨遷入人數-年	../PXfile/Population/
+Po0210A1M	國際、內戶籍遷入、遷出、淨遷入人數-月	../PXfile/Population/
+folder: 入境人數統計
+Po0212A1A	入境人數統計-年	../PXfile/Population/
+Po0212A1M	入境人數統計-月	../PXfile/Population/
+folder: 出境人數統計
+Po0213A1A	出境人數統計-年	../PXfile/Population/
+Po0213A1M	出境人數統計-月	../PXfile/Population/
+folder: 合法居留外僑人數
+Po0214A1A	合法居留外僑人數-年	../PXfile/Population/
+Po0214A1M	合法居留外僑人數-月	../PXfile/Population/
+folder: 警政與消防統計
+folder: 警政統計
+PS0201A1A	警察機關受(處)理刑事案件-年	../PXfile/PublicSafety/
+PS0201A1M	警察機關受(處)理刑事案件-月	../PXfile/PublicSafety/
+PS0202A1A	警察機關處理違反社會秩序維護法案件-年	../PXfile/PublicSafety/
+PS0202A1M	警察機關處理違反社會秩序維護法案件-月	../PXfile/PublicSafety/
+PS0203A1A	機動車輛及道路交通事故-年	../PXfile/PublicSafety/
+PS0203A1M	機動車輛及道路交通事故-月	../PXfile/PublicSafety/
+PS0204A1A	警察機關處理集會遊行發生數-年	../PXfile/PublicSafety/
+PS0204A1M	警察機關處理集會遊行發生數-月	../PXfile/PublicSafety/
+PS0205A1A	警察機關處理經濟案件-年	../PXfile/PublicSafety/
+PS0205A1M	警察機關處理經濟案件-月	../PXfile/PublicSafety/
+folder: 消防統計
+PS0301A1A	天然災害損失-年	../PXfile/PublicSafety/
+PS0302A1A	火災次數按起火原因分-年	../PXfile/PublicSafety/
+PS0302A1M	火災次數按起火原因分-月	../PXfile/PublicSafety/
+folder: 社會保險及福利統計
+folder: 社會保險
+SW0101A1A	社會保險-年	../PXfile/SocialWelfare/
+SW0101A1M	社會保險-月	../PXfile/SocialWelfare/
+folder: 社會救助
+folder: 低收入戶
+SW0103A1A	低收入戶戶數及人數-年	../PXfile/SocialWelfare/
+SW0103A1Q	低收入戶戶數及人數-季	../PXfile/SocialWelfare/
+SW0104A1A	低收入戶生活扶助-年	../PXfile/SocialWelfare/
+SW0104A1Q	低收入戶生活扶助-季	../PXfile/SocialWelfare/
+folder: 災害及急難救助
+SW0105A1A	災害及急難救助-年	../PXfile/SocialWelfare/
+SW0105A1Q	災害及急難救助-季	../PXfile/SocialWelfare/
+folder: 醫療補助、看護補助
+SW0106A1A	醫療補助、看護補助-年	../PXfile/SocialWelfare/
+SW0106A1Q	醫療補助、看護補助-季	../PXfile/SocialWelfare/
+folder: 社會福利
+folder: 老人福利
+SW0107A1A	中低收入老人生活津貼-年	../PXfile/SocialWelfare/
+SW0107A1M	中低收入老人生活津貼-月	../PXfile/SocialWelfare/
+SW0108A1A	老人福利服務-年	../PXfile/SocialWelfare/
+SW0112A1A	老人福利機構-年	../PXfile/SocialWelfare/
+folder: 身心障礙福利
+SW0109A1A	身心障礙人數-年	../PXfile/SocialWelfare/
+SW0109A1Q	身心障礙人數-季	../PXfile/SocialWelfare/
+SW0110A1A	身心障礙福利機構-年	../PXfile/SocialWelfare/
+SW0113A1A	身心障礙生活、輔助器具及托育養護補助 -年	../PXfile/SocialWelfare/
+folder: 婦女福利服務
+SW0111A1A	婦女福利服務-年	../PXfile/SocialWelfare/
+folder: 兒童及少年福利
+SW0114A1A	兒童及少年福利服務-年	../PXfile/SocialWelfare/
+SW0115A1A	發展遲緩兒童早期療育服務個案通報數-年	../PXfile/SocialWelfare/
+SW0116A1A	兒童及少年福利機構及服務概況-年	../PXfile/SocialWelfare/
+SW0117A1A	兒童及少年性交易案件安置情形-年	../PXfile/SocialWelfare/
+SW0119A1A	兒童及少年保護執行概況-年	../PXfile/SocialWelfare/
+SW0120A1A	托育機構概況-年	../PXfile/SocialWelfare/
+SW0118A1A	社會福利工作人員-年	../PXfile/SocialWelfare/
+folder: 教育統計
+folder: 教育概況
+ER0101A1A	各級學校校數、班級數、學生、畢業生及教師人數-年	../PXfile/Education/
+ER0102A1A	各級教育學齡人口在學率-年	../PXfile/Education/
+ER0103A1A	各級學校畢業生升學率-年	../PXfile/Education/
+ER0104A1A	國中小中途輟學學生人數-年	../PXfile/Education/
+ER0109A1A	學生視力不良率-年	../PXfile/Education/
+folder: 教育素質
+ER0105A1A	各級學校生師比-年	../PXfile/Education/
+ER0106A1A	專技人力之培育-年	../PXfile/Education/
+folder: 教育經費
+ER0107A1A	教育經費統計-年	../PXfile/Education/
+folder: 國際文教
+folder: 外國在華留學生人數
+ER0108A1A	外國在華留學生人數(1954-1980年)-年	../PXfile/Education/
+ER0108A2A	外國在華留學生人數(1981-2006年)-年	../PXfile/Education/
+ER0108A3A	外國在華留學生人數(2007年以後)-年	../PXfile/Education/
+folder: 衛生統計
+folder: 生命統計
+folder: 主要死亡原因
+HS0101A1A	主要死亡原因 (國際死因分類號碼ICD-9, 2007年以前)-年	../PXfile/Health/
+HS0101A2A	主要死亡原因 (國際死因分類號碼ICD-10, 2008年以後)-年	../PXfile/Health/
+folder: 主要癌症死亡原因
+HS0102A1A	主要癌症死亡原因-男女合計 (國際死因分類號碼ICD-9, 2007年以前)-年	../PXfile/Health/
+HS0102A2A	主要癌症死亡原因-男女合計 (國際死因分類號碼ICD-10, 2008年以後)-年	../PXfile/Health/
+HS0102A3A	主要癌症死亡原因-男性 (國際死因分類號碼ICD-9, 2007年以前)-年	../PXfile/Health/
+HS0102A4A	主要癌症死亡原因-男性 (國際死因分類號碼ICD-10, 2008年以後)-年	../PXfile/Health/
+HS0102A5A	主要癌症死亡原因-女性 (國際死因分類號碼ICD-9, 2007年以前)-年	../PXfile/Health/
+HS0102A6A	主要癌症死亡原因-女性 (國際死因分類號碼ICD-10, 2008年以後)-年	../PXfile/Health/
+HS0103A1A	新生兒、嬰兒及孕產婦死亡率-年	../PXfile/Health/
+HS0104A1A	事故傷害死亡概況-年	../PXfile/Health/
+HS0105A1A	自殺及自傷死亡概況-年	../PXfile/Health/
+folder: 醫療機構及醫事人員統計
+HS0201A1A	醫療院所病床數及每萬人口病床數-年	../PXfile/Health/
+HS0202A1A	醫療院所家數-年	../PXfile/Health/
+HS0203A1A	醫療與其他醫事機構執業醫事人員數及每萬人口執業醫事人員數-年	../PXfile/Health/
+HS0204A1A	醫院佔床率-年	../PXfile/Health/
+folder: 藥政及食品衛生管理統計
+HS0301A1A	藥商家數-年	../PXfile/Health/
+HS0302A1A	食品中毒事件-年	../PXfile/Health/
+folder: 預防保健統計
+HS0401A1A	各級全民健保特約醫療院所婦幼衛生工作-年	../PXfile/Health/
+HS0402A1A	預防保健服務執行情形-年	../PXfile/Health/
+folder: 醫療保健支出統計
+HS0501A1A	國民醫療保健資金來源及最終支出統計-年	../PXfile/Health/
+folder: 健康保險統計
+folder: 承保業務目
+HS1101A1A	保險對象人數-年	../PXfile/Health/
+HS1102A1A	被保險人平均投保金額-年	../PXfile/Health/
+folder: 財務狀況
+HS1103A1A	應收保險費-年	../PXfile/Health/
+HS1104A1A	中央健保局財務收支概況－保險收支與安全準備提列-年	../PXfile/Health/
+folder: 醫療給付
+HS1105A1A	醫療費用申報狀況-年	../PXfile/Health/
+folder: 環保統計
+folder: 空氣污染指標分布
+EP0101A1A	空氣污染指標分布-年	../PXfile/Environment/
+EP0101A1M	空氣污染指標分布-月	../PXfile/Environment/
+folder: 環保署環保稽查概況
+EP0102A1A	環保署環保稽查概況-年	../PXfile/Environment/
+EP0102A1M	環保署環保稽查概況-月	../PXfile/Environment/
+folder: 飲用水水質抽驗結果
+EP0103A1A	飲用水水質抽驗結果-年	../PXfile/Environment/
+EP0103A1M	飲用水水質抽驗結果-月	../PXfile/Environment/
+folder: 環境音量監測不合格情形
+EP0104A1A	環境音量監測不合格情形-年	../PXfile/Environment/
+EP0104A1Q	環境音量監測不合格情形-季	../PXfile/Environment/
+folder: 執行機關垃圾清理狀況
+EP0105A1A	執行機關垃圾清理狀況-年	../PXfile/Environment/
+EP0105A1M	執行機關垃圾清理狀況-月	../PXfile/Environment/
+folder: 重要河川污染現況
+EP0106A1A	重要河川污染現況-年	../PXfile/Environment/
+folder: 公害陳情案件受理件數
+EP0107A1A	公害陳情案件受理件數-年	../PXfile/Environment/
+EP0107A1M	公害陳情案件受理件數-月	../PXfile/Environment/

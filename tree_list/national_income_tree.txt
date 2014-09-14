@@ -1,0 +1,29 @@
+rootFront: 國民所得及經濟成長統計資料庫
+folder: 國民所得統計常用資料
+NA0101A1A	國民所得統計常用資料-年	../PXfile/NationalIncome/
+NA0101A1Q	國民所得統計常用資料-季	../PXfile/NationalIncome/
+folder: 國民生產毛額之處分
+NA0102A1A	國民生產毛額之處分-年	../PXfile/NationalIncome/
+NA0102A5A	國民生產毛額之處分-年(1981以後)	../PXfile/NationalIncome/
+NA0102A4Q	國民生產毛額之處分-季	../PXfile/NationalIncome/
+NA0102A6Q	國民生產毛額之處分-季(1981以後)	../PXfile/NationalIncome/
+folder: 國內生產及要素所得
+NA0102A2A	國內生產及要素所得-年	../PXfile/NationalIncome/
+folder: 國內各業生產及平減指數
+NA0103A1A	國內各業生產及平減指數-年	../PXfile/NationalIncome/
+folder: 資本形成毛額
+folder: 固定資本形成毛額
+NA0401A1A	固定資本形成毛額-年	../PXfile/NationalIncome/
+NA0401A2Q	固定資本形成毛額-季	../PXfile/NationalIncome/
+folder: 存貨增加
+NA0403A1A	存貨增加-年	../PXfile/NationalIncome/
+folder: 各業固定資本形成毛額
+NA0402A1A	各業固定資本形成毛額-年	../PXfile/NationalIncome/
+folder: 國民所得與儲蓄
+NA0201A1A	國民所得與儲蓄-年	../PXfile/NationalIncome/
+NA0201A1Q	國民所得與儲蓄-季	../PXfile/NationalIncome/
+folder: 平均每人項統計結果
+NA0202A1A	平均每人項統計結果-年	../PXfile/NationalIncome/
+NA0202A1Q	平均每人項統計結果-季	../PXfile/NationalIncome/
+folder: 經季節調整之國內生產毛額-依支出分
+NA0102A3Q	經季節調整之國內生產毛額依支出分-季	../PXfile/NationalIncome/
